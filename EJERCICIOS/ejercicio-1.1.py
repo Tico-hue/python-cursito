@@ -20,3 +20,4 @@ print(f"el curso de dalto es {Diferencia_con_max}% mas rapido que el mas lento")
 Cursos_Promedio = 100 - Curso_de_Dalto /  Cursos_Promedio * 100
 print(f"el curso de dalto es {Cursos_Promedio}% mas rapido que el promedio")
 
+ggg
